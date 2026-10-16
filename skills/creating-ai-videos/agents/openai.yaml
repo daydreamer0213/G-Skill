@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频创作"
+  short_description: "为 AI 产品演示与行业观点视频提供个人化创作指导"
+  default_prompt: "Use $creating-ai-videos to plan or create an AI self-media video for me."

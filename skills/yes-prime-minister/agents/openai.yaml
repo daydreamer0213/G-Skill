@@ -1,0 +1,6 @@
+interface:
+  display_name: "是，首相！"
+  short_description: "把项目进展、问题、风险和下一步讲成用户能够判断的信息"
+  default_prompt: "Use $yes-prime-minister to explain this project's status, impact, risks, and next action in plain language."
+policy:
+  allow_implicit_invocation: true

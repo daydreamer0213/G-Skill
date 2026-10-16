@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-Led Project Supervision"
+  short_description: "Keep long projects evidence-led and proportionate"
+  default_prompt: "Use $supervising-evidence-led-projects to supervise this project without over-designing or losing necessary evidence."
